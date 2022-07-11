@@ -1,3 +1,5 @@
+![alt text](https://github.com/maxiherzog/infogeo/blob/master/mixtures/voronoi.png?raw=true)
+
 # infogeo-applications
 
 This is the repository for a talk about the applications of information geometry in hypothesis testing and mixture clustering. 
