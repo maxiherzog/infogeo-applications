@@ -1,4 +1,4 @@
-![alt text](https://github.com/maxiherzog/infogeo/blob/master/mixtures/voronoi.png?raw=true)
+<img src="https://github.com/maxiherzog/infogeo-applications/blob/master/mixtures/voronoi.png?raw=true" alt="bregman voronoi mixtures" width="300"/>
 
 # infogeo-applications
 
