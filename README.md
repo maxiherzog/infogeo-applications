@@ -1,4 +1,4 @@
-![alt text](https://github.com/maxiherzog/infogeo/blob/master/mixtures/voronoi.png?raw=true)
+![alt text](https://github.com/maxiherzog/infogeo-applications/blob/master/mixtures/voronoi.png?raw=true)
 
 # infogeo-applications
 
